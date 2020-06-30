@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import corona from "./images/image.png";
+import corona from "./images/covid19.jpg";
 import { fetchData, countries } from "./api";
 
 import { Cards, Chart, CountryPicker } from "./components";
